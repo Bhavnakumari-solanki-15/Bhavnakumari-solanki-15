@@ -26,8 +26,6 @@ Currently diving deep into TypeScript, React, and AI-powered applications.
 
 ## 🚩 Highlighted Projects
 
----
-
 ### [SolvYaar – AI Math Learning Ecosystem](https://github.com/Bhavnakumari-solanki-15/SolvYaar-Clean)
 SolvYaar is an advanced platform that revolutionizes math education through interactive problem-solving and tailored AI support.
 
