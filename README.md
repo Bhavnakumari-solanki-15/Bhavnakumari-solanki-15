@@ -1,5 +1,5 @@
 
-# Hello, I'm Bhavna Kumari Solanki! 👩‍💻✨
+# Hello, I'm Bhavnakumari Solanki! 👩‍💻✨
 
 > *"Passion fuels progress, and every line of code is a step toward a brighter future."*
 
