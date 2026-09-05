@@ -24,42 +24,6 @@ Currently diving deep into TypeScript, React, and AI-powered applications.
 
 ---
 
-## 🚩 Highlighted Projects
-
-### [SolvYaar – AI Math Learning Ecosystem](https://github.com/Bhavnakumari-solanki-15/SolvYaar-Clean)
-SolvYaar is an advanced platform that revolutionizes math education through interactive problem-solving and tailored AI support.
-
-**Standout Capabilities:**
-- Groq-powered AI delivers stepwise solutions and clear explanations
-- Blockchain-based NFT badges celebrate learning milestones
-- Fluvio-driven real-time feedback for instant engagement
-- Dynamic visualizations, diverse math personas, and gamified practice
-- Custom tutoring and user profiles with blockchain rewards  
-*Built with React, Node.js, Solidity, Groq API, Fluvio, Supabase, and more*
-
----
-
-### [GDG-GreenThumb-AI](https://github.com/ShravanGupta07/GDG-GreenThumb-AI)
-GreenThumb AI is your digital gardening companion, using artificial intelligence to help you care for your plants.
-
-**Key Features:**
-- Computer vision for plant and disease identification
-- Personalized gardening advice
-- Modern, responsive UI with TypeScript and React
-
----
-
-### [InsightBot](https://github.com/ShravanGupta07/Insight-bot)
-InsightBot is a conversational analytics tool for social media metrics, offering instant, actionable insights.
-
-**What It Does:**
-- Collects and analyzes social media data in real time
-- Summarizes trends and sentiment using NLP
-- Presents results in a clear, interactive dashboard
-- Built with Python, APIs, and visualization tools
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="left">
@@ -102,18 +66,3 @@ Feel free to reach out for collaborations, mentorship, or just to say hi!
 
 ---
 
-<!-- STATS_2026_START -->
-### 📅 2026
-
-| 📝 My Commits | 👥 Contributors | 🤝 Community Commits |
-|---:|---:|---:|
-| **6** | **3** | **44** |
-<!-- STATS_2026_END -->
-
-<!-- STATS_2025_START -->
-### 📅 2025
-
-| 📝 My Commits | 👥 Contributors | 🤝 Community Commits |
-|---:|---:|---:|
-| **39** | **4** | **49** |
-<!-- STATS_2025_END -->
