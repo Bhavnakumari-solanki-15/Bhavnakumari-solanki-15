@@ -101,3 +101,19 @@ I’m passionate about teamwork and innovation.
 Feel free to reach out for collaborations, mentorship, or just to say hi!  
 
 ---
+
+<!-- STATS_2026_START -->
+### 📅 2026
+
+| 📝 My Commits | 👥 Contributors | 🤝 Community Commits |
+|---:|---:|---:|
+| **6** | **3** | **44** |
+<!-- STATS_2026_END -->
+
+<!-- STATS_2025_START -->
+### 📅 2025
+
+| 📝 My Commits | 👥 Contributors | 🤝 Community Commits |
+|---:|---:|---:|
+| **39** | **4** | **49** |
+<!-- STATS_2025_END -->
