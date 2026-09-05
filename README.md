@@ -58,15 +58,32 @@ InsightBot is a conversational analytics tool for social media metrics, offering
 - Presents results in a clear, interactive dashboard
 - Built with Python, APIs, and visualization tools
 
+---
+
 ## 🛠️ Tech Stack
 
-<div align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Blockchain-000000?style=for-the-badge&logo=ethereum&logoColor=white" alt="Blockchain" />
-  <img src="https://img.shields.io/badge/AI-FF6F61?style=for-the-badge&logo=artificialintelligence&logoColor=white" alt="AI" />
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,python,solidity,supabase,tailwind,git,figma" alt="Tech Stack" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhavnakumari-solanki-15&show_icons=true&theme=radical&hide_border=true&v=1" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavnakumari-solanki-15&theme=radical&hide_border=true" alt="GitHub Streak" height="150" />
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bhavnakumari-solanki-15/Bhavnakumari-solanki-15/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bhavnakumari-solanki-15/Bhavnakumari-solanki-15/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Bhavnakumari-solanki-15/Bhavnakumari-solanki-15/output/github-contribution-grid-snake-dark.svg" width="100%">
+</picture>
 
 ---
 
